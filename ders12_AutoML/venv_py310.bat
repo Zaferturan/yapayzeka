@@ -1,0 +1,1 @@
+python -m virtualenv -p "C:\Program Files\Python310\python.exe" venv
